@@ -5,7 +5,7 @@ public class RaceCar {
 	private String name;
 	private int location = 0;
 	
-	private static int maxSpeedForAll = 130;
+	private static int maxSpeedForAll = 140;
 	
 	public RaceCar( int speed, String name , int location) {
 		setSpeed(speed);
